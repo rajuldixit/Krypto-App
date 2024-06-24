@@ -9,6 +9,7 @@
 #### ANT-Design
 #### Webpack, babel
 #### Chart.js
+#### GSAP (animation)
 
 ### `Screenshots`
 
