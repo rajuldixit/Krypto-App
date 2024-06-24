@@ -1,5 +1,14 @@
 # Krypto App
 
+### This is a simple crypto app, where we can see all the crypto coins, fetched from Rapid APIs. Also we can view each coin by ID
+
+## `Tech Stack`
+
+#### React js, Redux, RTK-Query
+#### Rapid APIs
+#### ANT-Design
+#### Webpack, babel
+#### Chart.js
 
 ### `Screenshots`
 
